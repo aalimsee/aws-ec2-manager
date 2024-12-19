@@ -1,0 +1,36 @@
+{
+    "i-01bfed0debdbed1a2": {
+        "instance_id": "i-01bfed0debdbed1a2",
+        "ami_id": "ami-01816d07b1128cd2d",
+        "instance_type": "t2.micro",
+        "key_name": "aalimsee_key_pair",
+        "security_group": "default",
+        "created_on": "2024-12-17 02:11:27.635565"
+    },
+    "": {
+        "instance_id": "",
+        "ami_id": "",
+        "instance_type": "",
+        "key_name": "",
+        "security_group": "",
+        "created_on": ""
+    },
+    "i-0ea79d54e0f96145a": {
+        "instance_id": "i-0ea79d54e0f96145a",
+        "instance_name": "aalimsee-ec2-xxx",
+        "ami_id": "ami-01816d07b1128cd2d",
+        "instance_type": "t2.micro",
+        "key_name": "aalimsee_key_pair",
+        "security_group": "default",
+        "created_on": "2024-12-17 02:27:55.902749"
+    },
+    "i-027ac5cd7086e10f0": {
+        "instance_id": "i-027ac5cd7086e10f0",
+        "instance_name": "aalimsee-ec2-linux-1",
+        "ami_id": "ami-01816d07b1128cd2d",
+        "instance_type": "t2.micro",
+        "key_name": "aalimsee_key_pair",
+        "security_group": "default",
+        "created_on": "2024-12-17 10:45:13.102684"
+    }
+}
