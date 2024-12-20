@@ -3,7 +3,7 @@
         "instance_id": "i-01bfed0debdbed1a2",
         "ami_id": "ami-01816d07b1128cd2d",
         "instance_type": "t2.micro",
-        "key_name": "aalimsee_key_pair",
+        "key_name": "aalimsee-keypair",
         "security_group": "default",
         "created_on": "2024-12-17 02:11:27.635565"
     },
@@ -20,7 +20,7 @@
         "instance_name": "aalimsee-ec2-xxx",
         "ami_id": "ami-01816d07b1128cd2d",
         "instance_type": "t2.micro",
-        "key_name": "aalimsee_key_pair",
+        "key_name": "aalimsee-keypair",
         "security_group": "default",
         "created_on": "2024-12-17 02:27:55.902749"
     },
@@ -29,7 +29,7 @@
         "instance_name": "aalimsee-ec2-linux-1",
         "ami_id": "ami-01816d07b1128cd2d",
         "instance_type": "t2.micro",
-        "key_name": "aalimsee_key_pair",
+        "key_name": "aalimsee-keypair",
         "security_group": "default",
         "created_on": "2024-12-17 10:45:13.102684"
     }
